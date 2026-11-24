@@ -1,0 +1,6 @@
+{
+  "name": "فتاویٰ رضویہ — سوال و جواب و امتحان",
+  "description": "فتاویٰ رضویہ کے فقہی مسائل اردو سوال و جواب، حدیثِ مبارکہ کے حوالہ جات، فوری آف لائن تلاش اور امتحانی مشق کے ساتھ۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
